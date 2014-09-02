@@ -1,0 +1,338 @@
+# depslib dependency file v1.0
+1384696640 source:c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_17\src\linea.cpp
+	"Linea.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1379977610 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_17\include\linea.h
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/model.hpp>
+	<vector>
+	<string>
+
+1166017166 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\entity.hpp
+
+1166017176 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\entityqueuefifo.hpp
+	<eosim/utils/entityqueue.hpp>
+	<deque>
+
+1166017176 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\entityqueue.hpp
+	<eosim/core/entity.hpp>
+
+1166017166 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\model.hpp
+	<string>
+	<eosim/core/entity.hpp>
+	<eosim/dist/distribution.hpp>
+	<eosim/utils/beventmap.hpp>
+	<eosim/utils/ceventvector.hpp>
+
+1166017168 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\distribution.hpp
+	<eosim/dist/numbergenerator.hpp>
+
+1383853315 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\numbergenerator.hpp
+
+1166017174 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\beventmap.hpp
+	<eosim/core/bevent.hpp>
+	<map>
+	<string>
+
+1166017164 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\bevent.hpp
+	<string>
+
+1166017176 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\ceventvector.hpp
+	<eosim/core/cevent.hpp>
+	<vector>
+
+1166017166 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\cevent.hpp
+
+1384699696 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_17\include\sistematransporte.h
+	"Omnibus.h"
+	"Pasajero.h"
+	"Linea.h"
+	<eosim/dist/distribution.hpp>
+	<eosim/dist/numbergenerator.hpp>
+	<eosim/statics/observation.hpp>
+	<eosim/dist/normaldist.hpp>
+	<eosim/dist/negexpdist.hpp>
+	<eosim/dist/uniformdist.hpp>
+	<eosim/graphic.hpp>
+	<map>
+
+1384636263 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_17\include\omnibus.h
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/renewable.hpp>
+	<string>
+	<eosim/core/model.hpp>
+	<eosim/graphic.hpp>
+	<map>
+
+1166017168 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\renewable.hpp
+	<eosim/core/bin.hpp>
+
+1166017164 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\bin.hpp
+
+1166017252 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\graphic.hpp
+	<eosim/graphic/Display.hpp>
+	<eosim/graphic/refreshgraphic.hpp>
+
+1384613653 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\graphic\display.hpp
+	<boost/noncopyable.hpp>
+	<boost/shared_ptr.hpp>
+	<vector>
+	<deque>
+
+1093025826 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\noncopyable.hpp
+
+1112446814 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\shared_ptr.hpp
+	<boost/config.hpp>
+	<boost/detail/shared_ptr_nmt.hpp>
+	<boost/assert.hpp>
+	<boost/checked_delete.hpp>
+	<boost/throw_exception.hpp>
+	<boost/detail/shared_count.hpp>
+	<boost/detail/workaround.hpp>
+	<memory>
+	<algorithm>
+	<functional>
+	<typeinfo>
+	<iosfwd>
+
+1088734884 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\config.hpp
+	<boost/config/select_compiler_config.hpp>
+	<boost/config/select_stdlib_config.hpp>
+	<boost/config/select_platform_config.hpp>
+	<boost/config/suffix.hpp>
+
+1071836218 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\config\select_compiler_config.hpp
+
+1083587214 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\config\select_stdlib_config.hpp
+	<utility>
+
+1124901918 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\config\select_platform_config.hpp
+	<boost/config/posix_features.hpp>
+
+1082275814 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\config\posix_features.hpp
+	<unistd.h>
+
+1119360922 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\config\suffix.hpp
+	<limits.h>
+	<cstddef>
+	"boost/type.hpp"
+	"boost/non_type.hpp"
+
+1090805518 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\type.hpp
+
+1092932350 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\shared_ptr_nmt.hpp
+	<boost/assert.hpp>
+	<boost/checked_delete.hpp>
+	<boost/throw_exception.hpp>
+	<boost/detail/atomic_count.hpp>
+	<memory>
+	<algorithm>
+	<functional>
+	<new>
+
+1108992740 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\assert.hpp
+	<boost/current_function.hpp>
+	<assert.h>
+
+1092334386 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\checked_delete.hpp
+
+1091600102 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\throw_exception.hpp
+	<boost/config.hpp>
+	<exception>
+
+1112226774 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\atomic_count.hpp
+	<boost/config.hpp>
+	<boost/detail/atomic_count_pthreads.hpp>
+	<boost/detail/atomic_count_win32.hpp>
+	<boost/detail/atomic_count_gcc.hpp>
+	<boost/detail/atomic_count_pthreads.hpp>
+
+1090805520 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\atomic_count_pthreads.hpp
+	<pthread.h>
+
+1111703370 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\atomic_count_win32.hpp
+	<boost/detail/interlocked.hpp>
+
+1111173840 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\interlocked.hpp
+	<boost/config.hpp>
+	<windows.h>
+
+1112445474 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\atomic_count_gcc.hpp
+	<bits/atomicity.h>
+
+1120171780 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\shared_count.hpp
+	<boost/config.hpp>
+	<boost/checked_delete.hpp>
+	<boost/throw_exception.hpp>
+	<boost/detail/bad_weak_ptr.hpp>
+	<boost/detail/sp_counted_base.hpp>
+	<boost/detail/sp_counted_impl.hpp>
+	<memory>
+	<functional>
+	<new>
+	<typeinfo>
+
+1111103110 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\bad_weak_ptr.hpp
+	<exception>
+
+1116940296 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\sp_counted_base.hpp
+	<boost/config.hpp>
+	<boost/detail/sp_counted_base_nt.hpp>
+	<boost/detail/sp_counted_base_pt.hpp>
+	<boost/detail/sp_counted_base_gcc_x86.hpp>
+	<boost/detail/sp_counted_base_gcc_ia64.hpp>
+	<boost/detail/sp_counted_base_cw_ppc.hpp>
+	<boost/detail/sp_counted_base_gcc_ppc.hpp>
+	<boost/detail/sp_counted_base_w32.hpp>
+	<boost/detail/sp_counted_base_nt.hpp>
+	<boost/detail/sp_counted_base_pt.hpp>
+
+1116450602 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\sp_counted_base_nt.hpp
+	<typeinfo>
+
+1111184842 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\sp_counted_base_pt.hpp
+	<typeinfo>
+	<pthread.h>
+
+1112800360 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\sp_counted_base_gcc_x86.hpp
+	<typeinfo>
+
+1116450602 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\sp_counted_base_gcc_ia64.hpp
+	<typeinfo>
+
+1124138656 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\sp_counted_base_cw_ppc.hpp
+	<typeinfo>
+
+1124907350 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\sp_counted_base_gcc_ppc.hpp
+	<typeinfo>
+
+1111154684 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\sp_counted_base_w32.hpp
+	<boost/detail/interlocked.hpp>
+	<typeinfo>
+
+1111105848 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\sp_counted_impl.hpp
+	<boost/config.hpp>
+	<boost/checked_delete.hpp>
+	<boost/detail/sp_counted_base.hpp>
+	<boost/detail/quick_allocator.hpp>
+	<memory>
+	<typeinfo>
+	<cstddef>
+
+1090805520 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\quick_allocator.hpp
+	<boost/config.hpp>
+	<boost/detail/lightweight_mutex.hpp>
+	<boost/type_traits/type_with_alignment.hpp>
+	<boost/type_traits/alignment_of.hpp>
+	<new>
+	<cstddef>
+
+1112451148 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\lightweight_mutex.hpp
+	<boost/config.hpp>
+	<boost/detail/lwm_nop.hpp>
+	<boost/detail/lwm_win32_cs.hpp>
+	<boost/detail/lwm_pthreads.hpp>
+
+1090805520 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\lwm_nop.hpp
+
+1090805520 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\lwm_win32_cs.hpp
+	<windows.h>
+
+1090805520 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\lwm_pthreads.hpp
+	<pthread.h>
+
+1090805520 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\libs\boost_1_33_1\boost\detail\workaround.hpp
+
+1166017172 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\graphic\refreshgraphic.hpp
+	<eosim/core/cevent.hpp>
+	<eosim/graphic/Display.hpp>
+
+1379977610 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_17\include\pasajero.h
+	<eosim/core/entity.hpp>
+	<string>
+	<eosim/core/model.hpp>
+
+1166017174 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\statics\observation.hpp
+	<eosim/statics/histogram.hpp>
+
+1166017172 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\statics\histogram.hpp
+	<string>
+	<map>
+	<utility>
+
+1166017170 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\normaldist.hpp
+	<eosim/dist/distribution.hpp>
+
+1166017170 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\negexpdist.hpp
+	<eosim/dist/distribution.hpp>
+
+1384696638 source:c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_17\src\pasajero.cpp
+	"Pasajero.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1166017172 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\uniformdist.hpp
+	<eosim/dist/distribution.hpp>
+
+1384805521 source:c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_17\src\main.cpp
+	<eosim/dist/mt19937.hpp>
+	<eosim/core/experiment.hpp>
+	"SistemaTransporte.h"
+	<windows.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1166017170 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\mt19937.hpp
+	<eosim/dist/numbergenerator.hpp>
+
+1166017166 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\experiment.hpp
+	<string>
+	<eosim/core/bcalendar.hpp>
+	<eosim/core/ccalendar.hpp>
+	<eosim/core/entity.hpp>
+	<eosim/dist/distmanager.hpp>
+	<eosim/dist/distribution.hpp>
+
+1166017164 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\bcalendar.hpp
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueueordered.hpp>
+
+1166017178 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\entityqueueordered.hpp
+	<eosim/utils/entityqueue.hpp>
+	<deque>
+
+1166017164 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\ccalendar.hpp
+	<eosim/core/cevent.hpp>
+	<eosim/utils/ceventvector.hpp>
+
+1166017168 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\distmanager.hpp
+	<eosim/dist/numbergenerator.hpp>
+	<eosim/utils/distvector.hpp>
+
+1166017176 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\distvector.hpp
+	<eosim/dist/distribution.hpp>
+	<vector>
+
+1384696627 source:c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_17\src\omnibus.cpp
+	"Omnibus.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1384702453 source:c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_17\src\sistematransporte.cpp
+	<stdio.h>
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+	<sstream>
+

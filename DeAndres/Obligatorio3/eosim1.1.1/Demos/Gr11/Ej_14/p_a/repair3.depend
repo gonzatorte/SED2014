@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1383489723 source:c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_14\main.cpp
+	<eosim/core/experiment.hpp>
+	"constantes.hpp"
+	"repair.hpp"
+	<iostream>
+	<string>
+
+1166017166 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\experiment.hpp
+	<string>
+	<eosim/core/bcalendar.hpp>
+	<eosim/core/ccalendar.hpp>
+	<eosim/core/entity.hpp>
+	<eosim/dist/distmanager.hpp>
+	<eosim/dist/distribution.hpp>
+
+1166017164 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\bcalendar.hpp
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueueordered.hpp>
+
+1166017166 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\entity.hpp
+
+1166017178 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\entityqueueordered.hpp
+	<eosim/utils/entityqueue.hpp>
+	<deque>
+
+1166017176 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\entityqueue.hpp
+	<eosim/core/entity.hpp>
+
+1166017164 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\ccalendar.hpp
+	<eosim/core/cevent.hpp>
+	<eosim/utils/ceventvector.hpp>
+
+1166017166 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\cevent.hpp
+
+1166017176 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\ceventvector.hpp
+	<eosim/core/cevent.hpp>
+	<vector>
+
+1166017168 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\distmanager.hpp
+	<eosim/dist/numbergenerator.hpp>
+	<eosim/utils/distvector.hpp>
+
+1166017170 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\numbergenerator.hpp
+
+1166017176 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\distvector.hpp
+	<eosim/dist/distribution.hpp>
+	<vector>
+
+1166017168 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\distribution.hpp
+	<eosim/dist/numbergenerator.hpp>
+
+1249835530 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_14\constantes.hpp
+
+1383489386 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_14\repair.hpp
+	"events.hpp"
+	"machine.hpp"
+	<vector>
+	<eosim/core/model.hpp>
+	<eosim/core/renewable.hpp>
+	<eosim/dist/negexpdist.hpp>
+	<eosim/dist/normaldist.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/statics/timeweighted.hpp>
+	<eosim/statics/observation.hpp>
+
+1383081327 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_14\events.hpp
+	<eosim/core/bevent.hpp>
+	<eosim/core/entity.hpp>
+	<eosim/core/cevent.hpp>
+	<string>
+
+1166017164 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\bevent.hpp
+	<string>
+
+1166018898 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_14\machine.hpp
+	<eosim/core/entity.hpp>
+
+1166017166 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\model.hpp
+	<string>
+	<eosim/core/entity.hpp>
+	<eosim/dist/distribution.hpp>
+	<eosim/utils/beventmap.hpp>
+	<eosim/utils/ceventvector.hpp>
+
+1166017174 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\beventmap.hpp
+	<eosim/core/bevent.hpp>
+	<map>
+	<string>
+
+1166017168 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\renewable.hpp
+	<eosim/core/bin.hpp>
+
+1166017164 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\core\bin.hpp
+
+1166017170 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\negexpdist.hpp
+	<eosim/dist/distribution.hpp>
+
+1166017170 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\dist\normaldist.hpp
+	<eosim/dist/distribution.hpp>
+
+1166017176 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\utils\entityqueuefifo.hpp
+	<eosim/utils/entityqueue.hpp>
+	<deque>
+
+1383489478 source:c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_14\repair.cpp
+	"repair.hpp"
+	<eosim/dist/numbergenerator.hpp>
+
+1383488250 source:c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\demos\gr11\ej_14\events.cpp
+	"events.hpp"
+	"repair.hpp"
+	"machine.hpp"
+	<iostream>
+
+1166017174 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\statics\timeweighted.hpp
+	<eosim/statics/histogram.hpp>
+
+1166017172 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\statics\histogram.hpp
+	<string>
+	<map>
+	<utility>
+
+1166017174 c:\documents and settings\andres\escritorio\eventos discretos\eosimulator\eosim1.1.1\include\eosim\statics\observation.hpp
+	<eosim/statics/histogram.hpp>
+

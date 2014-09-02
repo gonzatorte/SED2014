@@ -1,0 +1,1464 @@
+Log de Caso de Estudio Ejercicio 7.
+Arranco ...
+Se crea nuevo Omnibus con ID 1 de la Linea 1 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 2 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 3 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 4 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 5 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 6 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 7 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 8 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 9 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 10 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 11 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 12 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Omnibus con ID 1 de la Linea 13 en tiempo 0
+Se pone en circulacion el Omnibus
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 3 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 8 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 18 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 31 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 38 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 39 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 2 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 2 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 3 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 3 y ParadaDestino 4 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 3 y ParadaDestino 8 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 3 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 3 y ParadaDestino 39 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 3 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 3 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 4 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 4 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 4 y ParadaDestino 39 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 4 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 4 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 5 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 6 y ParadaDestino 8 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 6 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 6 y ParadaDestino 27 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 6 y ParadaDestino 28 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 6 y ParadaDestino 30 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 6 y ParadaDestino 32 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 6 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 7 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 6 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 24 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 30 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 32 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 10 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 12 y ParadaDestino 22 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 12 y ParadaDestino 27 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 12 y ParadaDestino 31 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 12 y ParadaDestino 33 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 12 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 12 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 12 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 13 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 13 y ParadaDestino 24 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 13 y ParadaDestino 30 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 13 y ParadaDestino 31 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 13 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 13 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 14 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 14 y ParadaDestino 32 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 14 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 15 y ParadaDestino 19 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 15 y ParadaDestino 30 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 15 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 16 y ParadaDestino 30 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 16 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 17 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 17 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 18 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 18 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 18 y ParadaDestino 30 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 18 y ParadaDestino 32 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 18 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 18 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 18 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 19 y ParadaDestino 13 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 19 y ParadaDestino 15 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 21 y ParadaDestino 12 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 21 y ParadaDestino 13 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 21 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 21 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 22 y ParadaDestino 31 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 22 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 22 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 22 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 2 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 4 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 5 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 13 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 18 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 19 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 30 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 32 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 39 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 24 y ParadaDestino 13 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 24 y ParadaDestino 30 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 24 y ParadaDestino 32 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 24 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 24 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 25 y ParadaDestino 30 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 25 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 27 y ParadaDestino 8 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 27 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 28 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 29 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 30 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 30 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 31 y ParadaDestino 8 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 2 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 5 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 15 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 16 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 18 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 19 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 24 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 25 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 42 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 44 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 45 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 48 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 50 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 55 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 57 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 3 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 5 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 6 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 8 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 12 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 13 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 14 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 15 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 16 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 17 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 18 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 21 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 22 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 24 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 25 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 27 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 29 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 32 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 35 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 36 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 41 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 42 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 43 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 44 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 45 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 48 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 50 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 53 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 54 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 55 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 56 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 57 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 60 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 65 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 70 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 73 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 75 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 78 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 34 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 34 y ParadaDestino 8 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 34 y ParadaDestino 14 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 34 y ParadaDestino 18 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 34 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 34 y ParadaDestino 24 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 34 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 36 y ParadaDestino 39 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 36 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 36 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 36 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 39 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 39 y ParadaDestino 5 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 39 y ParadaDestino 42 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 39 y ParadaDestino 43 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 39 y ParadaDestino 44 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 40 y ParadaDestino 43 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 41 y ParadaDestino 44 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 41 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 41 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 42 y ParadaDestino 44 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 42 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 42 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 42 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 43 y ParadaDestino 44 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 43 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 43 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 43 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 44 y ParadaDestino 40 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 44 y ParadaDestino 43 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 44 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 44 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 44 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 45 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 46 y ParadaDestino 58 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 46 y ParadaDestino 60 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 46 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 46 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 47 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 47 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 49 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 50 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 50 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 50 y ParadaDestino 55 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 50 y ParadaDestino 58 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 50 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 50 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 50 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 55 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 57 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 58 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 60 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 63 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 52 y ParadaDestino 50 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 52 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 52 y ParadaDestino 58 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 52 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 52 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 52 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 53 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 53 y ParadaDestino 55 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 53 y ParadaDestino 58 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 53 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 53 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 54 y ParadaDestino 45 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 54 y ParadaDestino 47 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 54 y ParadaDestino 50 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 54 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 54 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 54 y ParadaDestino 55 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 54 y ParadaDestino 58 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 54 y ParadaDestino 63 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 54 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 54 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 55 y ParadaDestino 50 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 55 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 55 y ParadaDestino 60 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 55 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 55 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 55 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 55 y ParadaDestino 71 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 56 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 57 y ParadaDestino 45 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 57 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 57 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 57 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 58 y ParadaDestino 45 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 58 y ParadaDestino 47 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 58 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 58 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 58 y ParadaDestino 53 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 58 y ParadaDestino 56 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 58 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 58 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 12 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 13 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 17 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 20 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 22 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 27 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 45 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 47 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 48 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 50 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 54 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 56 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 60 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 70 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 73 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 78 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 60 y ParadaDestino 47 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 60 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 60 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 60 y ParadaDestino 55 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 60 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 60 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 60 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 62 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 62 y ParadaDestino 60 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 65 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 65 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 65 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 66 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 2 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 3 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 5 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 6 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 8 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 10 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 12 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 13 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 14 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 16 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 18 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 19 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 23 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 24 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 25 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 27 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 30 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 32 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 33 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 35 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 36 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 39 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 41 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 42 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 43 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 44 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 45 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 47 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 48 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 49 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 51 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 53 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 54 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 55 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 56 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 58 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 60 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 62 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 65 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 70 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 73 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 75 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 77 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 78 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 82 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 68 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 69 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 70 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 70 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 70 y ParadaDestino 68 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 70 y ParadaDestino 77 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 71 y ParadaDestino 1 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 71 y ParadaDestino 13 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 71 y ParadaDestino 45 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 71 y ParadaDestino 52 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 71 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 71 y ParadaDestino 69 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 72 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 73 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 73 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 75 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 75 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 75 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 75 y ParadaDestino 73 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 78 y ParadaDestino 33 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 78 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 78 y ParadaDestino 71 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 80 y ParadaDestino 67 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 82 y ParadaDestino 59 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 82 y ParadaDestino 66 en tiempo 0
+Se crea nuevo Pasajero con ParadaOrigen 84 y ParadaDestino 75 en tiempo 0
+--BajarPasajeros: Parada 71--
+{
+}
+--BajarPasajeros: Parada 71--
+{
+}
+--BajarPasajeros: Parada 71--
+{
+}
+--BajarPasajeros: Parada 71--
+{
+}
+--BajarPasajeros: Parada 71--
+{
+}
+--BajarPasajeros: Parada 71--
+{
+}
+--BajarPasajeros: Parada 71--
+{
+}
+--BajarPasajeros: Parada 71--
+{
+}
+--BajarPasajeros: Parada 71--
+{
+}
+--BajarPasajeros: Parada 59--
+{
+}
+--BajarPasajeros: Parada 71--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--SubirPasajeros: Parada 71--
+{
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 45 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 67 en tiempo 0
+}
+--SubirPasajeros: Parada 71--
+{
+}
+--SubirPasajeros: Parada 71--
+{
+}
+--SubirPasajeros: Parada 71--
+{
+}
+--SubirPasajeros: Parada 71--
+{
+}
+--SubirPasajeros: Parada 71--
+{
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 13 en tiempo 0
+}
+--SubirPasajeros: Parada 71--
+{
+}
+--SubirPasajeros: Parada 71--
+{
+Sube pasajero al Omnibus 1 de la Linea 8 con ParadaDestino 1 en tiempo 0
+}
+--SubirPasajeros: Parada 71--
+{
+}
+--SubirPasajeros: Parada 59--
+{
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 12 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 13 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 17 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 20 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 22 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 27 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 66 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 67 en tiempo 0
+}
+--SubirPasajeros: Parada 71--
+{
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 52 en tiempo 0
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 32 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 33 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 59 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 60 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 62 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 65 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 70 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 75 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 77 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 78 en tiempo 0
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 82 en tiempo 0
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 13 con ParadaDestino 39 en tiempo 0
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--SubirPasajeros: Parada 34--
+{
+}
+--SubirPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+Baja pasajero del Omnibus 1 de la Linea 1 en tiempo 1.89692
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--BajarPasajeros: Parada 67--
+{
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 45 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 47 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 48 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 54 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 55 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 58 en tiempo 1.89692
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 2 con ParadaDestino 49 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 2 con ParadaDestino 56 en tiempo 1.89692
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 3 con ParadaDestino 73 en tiempo 1.89692
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 5 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 6 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 8 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 10 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 23 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 25 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 27 en tiempo 1.89692
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 41 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 42 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 43 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 44 en tiempo 1.89692
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 13 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 18 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 19 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 24 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 30 en tiempo 1.89692
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 7 con ParadaDestino 14 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 7 con ParadaDestino 16 en tiempo 1.89692
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 8 con ParadaDestino 1 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 8 con ParadaDestino 2 en tiempo 1.89692
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 3 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 35 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 36 en tiempo 1.89692
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 51 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 52 en tiempo 1.89692
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 53 en tiempo 1.89692
+}
+--BajarPasajeros: Parada 63--
+{
+}
+--SubirPasajeros: Parada 63--
+{
+}
+--BajarPasajeros: Parada 33--
+{
+Baja pasajero del Omnibus 1 de la Linea 12 en tiempo 2.72769
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 32 en tiempo 2.72769
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 59 en tiempo 2.72769
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 60 en tiempo 2.72769
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 65 en tiempo 2.72769
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 70 en tiempo 2.72769
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 75 en tiempo 2.72769
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 78 en tiempo 2.72769
+}
+--SubirPasajeros: Parada 33--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 34--
+{
+}
+--SubirPasajeros: Parada 34--
+{
+}
+--SubirPasajeros: Parada 34--
+{
+}
+--SubirPasajeros: Parada 34--
+{
+}
+--SubirPasajeros: Parada 34--
+{
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 8 en tiempo 2.80615
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 23 en tiempo 2.80615
+}
+--SubirPasajeros: Parada 34--
+{
+}
+--SubirPasajeros: Parada 34--
+{
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 18 en tiempo 2.80615
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 24 en tiempo 2.80615
+}
+--SubirPasajeros: Parada 34--
+{
+Sube pasajero al Omnibus 1 de la Linea 7 con ParadaDestino 14 en tiempo 2.80615
+}
+--SubirPasajeros: Parada 34--
+{
+Sube pasajero al Omnibus 1 de la Linea 8 con ParadaDestino 1 en tiempo 2.80615
+}
+--SubirPasajeros: Parada 34--
+{
+}
+--SubirPasajeros: Parada 34--
+{
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 51 en tiempo 2.80615
+}
+--BajarPasajeros: Parada 32--
+{
+Baja pasajero del Omnibus 1 de la Linea 12 en tiempo 4.12154
+Baja pasajero del Omnibus 1 de la Linea 12 en tiempo 4.12154
+}
+--BajarPasajeros: Parada 32--
+{
+}
+--SubirPasajeros: Parada 32--
+{
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 59 en tiempo 4.12154
+}
+--SubirPasajeros: Parada 32--
+{
+}
+--BajarPasajeros: Parada 66--
+{
+Baja pasajero del Omnibus 1 de la Linea 10 en tiempo 4.58308
+}
+--SubirPasajeros: Parada 66--
+{
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 67 en tiempo 4.58308
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--BajarPasajeros: Parada 33--
+{
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 45 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 48 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 54 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 55 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 57 en tiempo 4.62462
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 2 con ParadaDestino 56 en tiempo 4.62462
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 3 con ParadaDestino 73 en tiempo 4.62462
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 5 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 6 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 8 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 23 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 25 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 27 en tiempo 4.62462
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 41 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 42 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 43 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 44 en tiempo 4.62462
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 13 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 15 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 17 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 18 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 21 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 24 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 29 en tiempo 4.62462
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 7 con ParadaDestino 14 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 7 con ParadaDestino 16 en tiempo 4.62462
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 8 con ParadaDestino 1 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 8 con ParadaDestino 22 en tiempo 4.62462
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 3 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 35 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 36 en tiempo 4.62462
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 50 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 51 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 52 en tiempo 4.62462
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 53 en tiempo 4.62462
+}
+--BajarPasajeros: Parada 62--
+{
+}
+--SubirPasajeros: Parada 62--
+{
+Sube pasajero al Omnibus 1 de la Linea 13 con ParadaDestino 60 en tiempo 5.13692
+}
+--BajarPasajeros: Parada 68--
+{
+}
+--SubirPasajeros: Parada 68--
+{
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 67 en tiempo 5.51539
+}
+--BajarPasajeros: Parada 32--
+{
+}
+--BajarPasajeros: Parada 32--
+{
+}
+--BajarPasajeros: Parada 32--
+{
+}
+--BajarPasajeros: Parada 32--
+{
+}
+--BajarPasajeros: Parada 32--
+{
+}
+--BajarPasajeros: Parada 32--
+{
+}
+--BajarPasajeros: Parada 32--
+{
+}
+--BajarPasajeros: Parada 32--
+{
+}
+--SubirPasajeros: Parada 32--
+{
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 45 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 48 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 55 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 57 en tiempo 6.01846
+}
+--SubirPasajeros: Parada 32--
+{
+}
+--SubirPasajeros: Parada 32--
+{
+}
+--SubirPasajeros: Parada 32--
+{
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 42 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 44 en tiempo 6.01846
+}
+--SubirPasajeros: Parada 32--
+{
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 15 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 18 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 19 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 23 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 24 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 25 en tiempo 6.01846
+}
+--SubirPasajeros: Parada 32--
+{
+Sube pasajero al Omnibus 1 de la Linea 7 con ParadaDestino 16 en tiempo 6.01846
+}
+--SubirPasajeros: Parada 32--
+{
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 1 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 2 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 5 en tiempo 6.01846
+}
+--SubirPasajeros: Parada 32--
+{
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 50 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 51 en tiempo 6.01846
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 52 en tiempo 6.01846
+}
+--BajarPasajeros: Parada 31--
+{
+}
+--BajarPasajeros: Parada 31--
+{
+}
+--SubirPasajeros: Parada 31--
+{
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 8 en tiempo 6.52154
+}
+--SubirPasajeros: Parada 31--
+{
+}
+--BajarPasajeros: Parada 39--
+{
+Baja pasajero del Omnibus 1 de la Linea 13 en tiempo 6.53077
+}
+--SubirPasajeros: Parada 39--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 6 en tiempo 6.87498
+--BajarPasajeros: Parada 62--
+{
+}
+--BajarPasajeros: Parada 62--
+{
+}
+--BajarPasajeros: Parada 62--
+{
+}
+--BajarPasajeros: Parada 62--
+{
+}
+--BajarPasajeros: Parada 62--
+{
+}
+--BajarPasajeros: Parada 62--
+{
+}
+--SubirPasajeros: Parada 62--
+{
+}
+--SubirPasajeros: Parada 62--
+{
+}
+--SubirPasajeros: Parada 62--
+{
+}
+--SubirPasajeros: Parada 62--
+{
+}
+--SubirPasajeros: Parada 62--
+{
+}
+--SubirPasajeros: Parada 62--
+{
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 52 en tiempo 7.03385
+}
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 67 en tiempo 7.09678
+--BajarPasajeros: Parada 67--
+{
+Baja pasajero del Omnibus 1 de la Linea 10 en tiempo 7.32923
+Baja pasajero del Omnibus 1 de la Linea 10 en tiempo 7.32923
+Baja pasajero del Omnibus 1 de la Linea 10 en tiempo 7.32923
+}
+--SubirPasajeros: Parada 67--
+{
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 12 en tiempo 7.32923
+}
+--BajarPasajeros: Parada 66--
+{
+}
+--SubirPasajeros: Parada 66--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 8 en tiempo 7.67442
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 67 en tiempo 7.7647
+--BajarPasajeros: Parada 30--
+{
+Baja pasajero del Omnibus 1 de la Linea 6 en tiempo 7.89692
+}
+--BajarPasajeros: Parada 30--
+{
+}
+--SubirPasajeros: Parada 30--
+{
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 23 en tiempo 7.89692
+}
+--SubirPasajeros: Parada 30--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 6 y ParadaDestino 8 en tiempo 8.04881
+--BajarPasajeros: Parada 34--
+{
+}
+--SubirPasajeros: Parada 34--
+{
+}
+--BajarPasajeros: Parada 68--
+{
+}
+--SubirPasajeros: Parada 68--
+{
+}
+--BajarPasajeros: Parada 28--
+{
+}
+--BajarPasajeros: Parada 28--
+{
+}
+--SubirPasajeros: Parada 28--
+{
+}
+--SubirPasajeros: Parada 28--
+{
+}
+--BajarPasajeros: Parada 39--
+{
+}
+--BajarPasajeros: Parada 39--
+{
+}
+--BajarPasajeros: Parada 39--
+{
+}
+--BajarPasajeros: Parada 39--
+{
+}
+--SubirPasajeros: Parada 39--
+{
+}
+--SubirPasajeros: Parada 39--
+{
+}
+--SubirPasajeros: Parada 39--
+{
+}
+--SubirPasajeros: Parada 39--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 67 en tiempo 8.68417
+--BajarPasajeros: Parada 59--
+{
+}
+--SubirPasajeros: Parada 59--
+{
+Sube pasajero al Omnibus 1 de la Linea 13 con ParadaDestino 60 en tiempo 9.17538
+Sube pasajero al Omnibus 1 de la Linea 13 con ParadaDestino 78 en tiempo 9.17538
+}
+Se crea nuevo Pasajero con ParadaOrigen 24 y ParadaDestino 67 en tiempo 9.42854
+Se crea nuevo Pasajero con ParadaOrigen 12 y ParadaDestino 59 en tiempo 9.70591
+--BajarPasajeros: Parada 29--
+{
+Baja pasajero del Omnibus 1 de la Linea 6 en tiempo 9.75692
+}
+--BajarPasajeros: Parada 29--
+{
+}
+--SubirPasajeros: Parada 29--
+{
+}
+--SubirPasajeros: Parada 29--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 58 en tiempo 10
+--BajarPasajeros: Parada 33--
+{
+}
+--SubirPasajeros: Parada 33--
+{
+Sube pasajero al Omnibus 1 de la Linea 10 con ParadaDestino 12 en tiempo 10.0569
+}
+--BajarPasajeros: Parada 71--
+{
+}
+--SubirPasajeros: Parada 71--
+{
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 69 en tiempo 10.2369
+}
+--BajarPasajeros: Parada 27--
+{
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 10.2785
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 10.2785
+}
+--SubirPasajeros: Parada 27--
+{
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 8 en tiempo 10.2785
+}
+--BajarPasajeros: Parada 26--
+{
+}
+--SubirPasajeros: Parada 26--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 18 en tiempo 10.3125
+Se crea nuevo Pasajero con ParadaOrigen 60 y ParadaDestino 67 en tiempo 10.3125
+Se crea nuevo Pasajero con ParadaOrigen 6 y ParadaDestino 30 en tiempo 10.6452
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 1 en tiempo 11
+--BajarPasajeros: Parada 59--
+{
+}
+--BajarPasajeros: Parada 59--
+{
+}
+--BajarPasajeros: Parada 59--
+{
+}
+--BajarPasajeros: Parada 59--
+{
+}
+--SubirPasajeros: Parada 59--
+{
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 45 en tiempo 11.0723
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 47 en tiempo 11.0723
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 48 en tiempo 11.0723
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 54 en tiempo 11.0723
+}
+--SubirPasajeros: Parada 59--
+{
+Sube pasajero al Omnibus 1 de la Linea 2 con ParadaDestino 56 en tiempo 11.0723
+}
+--SubirPasajeros: Parada 59--
+{
+Sube pasajero al Omnibus 1 de la Linea 3 con ParadaDestino 70 en tiempo 11.0723
+Sube pasajero al Omnibus 1 de la Linea 3 con ParadaDestino 73 en tiempo 11.0723
+}
+--SubirPasajeros: Parada 59--
+{
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 50 en tiempo 11.0723
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 51 en tiempo 11.0723
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 52 en tiempo 11.0723
+}
+--BajarPasajeros: Parada 59--
+{
+}
+--BajarPasajeros: Parada 59--
+{
+}
+--SubirPasajeros: Parada 59--
+{
+}
+--SubirPasajeros: Parada 59--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 60 en tiempo 11.3793
+Se crea nuevo Pasajero con ParadaOrigen 51 y ParadaDestino 67 en tiempo 11.5789
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 52 en tiempo 11.5789
+--BajarPasajeros: Parada 24--
+{
+Baja pasajero del Omnibus 1 de la Linea 6 en tiempo 11.6123
+Baja pasajero del Omnibus 1 de la Linea 6 en tiempo 11.6123
+Baja pasajero del Omnibus 1 de la Linea 6 en tiempo 11.6123
+Baja pasajero del Omnibus 1 de la Linea 6 en tiempo 11.6123
+}
+--BajarPasajeros: Parada 24--
+{
+}
+--SubirPasajeros: Parada 24--
+{
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 13 en tiempo 11.6123
+}
+--SubirPasajeros: Parada 24--
+{
+}
+--BajarPasajeros: Parada 60--
+{
+Baja pasajero del Omnibus 1 de la Linea 13 en tiempo 11.7462
+Baja pasajero del Omnibus 1 de la Linea 13 en tiempo 11.7462
+}
+--SubirPasajeros: Parada 60--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 6 en tiempo 11.7858
+Se crea nuevo Pasajero con ParadaOrigen 55 y ParadaDestino 67 en tiempo 11.7858
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 54 en tiempo 11.7858
+--BajarPasajeros: Parada 31--
+{
+}
+--SubirPasajeros: Parada 31--
+{
+}
+--BajarPasajeros: Parada 22--
+{
+Baja pasajero del Omnibus 1 de la Linea 8 en tiempo 12.18
+}
+--SubirPasajeros: Parada 22--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 3 en tiempo 12.2222
+Se crea nuevo Pasajero con ParadaOrigen 23 y ParadaDestino 1 en tiempo 12.2222
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 52 en tiempo 12.2222
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 23 en tiempo 12.2222
+--BajarPasajeros: Parada 25--
+{
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 12.2446
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 12.2446
+}
+--SubirPasajeros: Parada 25--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 8 en tiempo 12.4528
+Se crea nuevo Pasajero con ParadaOrigen 67 y ParadaDestino 23 en tiempo 12.4528
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 30 en tiempo 12.6923
+--BajarPasajeros: Parada 69--
+{
+Baja pasajero del Omnibus 1 de la Linea 12 en tiempo 12.9
+}
+--SubirPasajeros: Parada 69--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 42 y ParadaDestino 68 en tiempo 12.9411
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 18 en tiempo 13.1999
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 23 en tiempo 13.1999
+--BajarPasajeros: Parada 23--
+{
+Baja pasajero del Omnibus 1 de la Linea 6 en tiempo 13.62
+Baja pasajero del Omnibus 1 de la Linea 6 en tiempo 13.62
+}
+--BajarPasajeros: Parada 23--
+{
+}
+--SubirPasajeros: Parada 23--
+{
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 13 en tiempo 13.62
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 18 en tiempo 13.62
+Sube pasajero al Omnibus 1 de la Linea 6 con ParadaDestino 19 en tiempo 13.62
+}
+--SubirPasajeros: Parada 23--
+{
+}
+--BajarPasajeros: Parada 23--
+{
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 13.6338
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 13.6338
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 13.6338
+}
+--SubirPasajeros: Parada 23--
+{
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 5 en tiempo 13.6338
+}
+--BajarPasajeros: Parada 60--
+{
+}
+--BajarPasajeros: Parada 60--
+{
+}
+--BajarPasajeros: Parada 60--
+{
+}
+--BajarPasajeros: Parada 60--
+{
+}
+--SubirPasajeros: Parada 60--
+{
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 47 en tiempo 13.6431
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 55 en tiempo 13.6431
+}
+--SubirPasajeros: Parada 60--
+{
+}
+--SubirPasajeros: Parada 60--
+{
+}
+--SubirPasajeros: Parada 60--
+{
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 51 en tiempo 13.6431
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 52 en tiempo 13.6431
+}
+--BajarPasajeros: Parada 39--
+{
+}
+--BajarPasajeros: Parada 39--
+{
+}
+--SubirPasajeros: Parada 39--
+{
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 42 en tiempo 13.7169
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 43 en tiempo 13.7169
+Sube pasajero al Omnibus 1 de la Linea 5 con ParadaDestino 44 en tiempo 13.7169
+}
+--SubirPasajeros: Parada 39--
+{
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 1 en tiempo 13.7169
+Sube pasajero al Omnibus 1 de la Linea 9 con ParadaDestino 5 en tiempo 13.7169
+}
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 6 en tiempo 13.75
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 45 en tiempo 13.7501
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 52 en tiempo 13.7501
+--BajarPasajeros: Parada 28--
+{
+}
+--SubirPasajeros: Parada 28--
+{
+}
+--BajarPasajeros: Parada 64--
+{
+}
+--SubirPasajeros: Parada 64--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 34 y ParadaDestino 1 en tiempo 14.0426
+--BajarPasajeros: Parada 18--
+{
+}
+--SubirPasajeros: Parada 18--
+{
+Sube pasajero al Omnibus 1 de la Linea 8 con ParadaDestino 1 en tiempo 14.1231
+}
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 67 en tiempo 14.1936
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 12 en tiempo 14.3478
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 25 en tiempo 14.3478
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 23 en tiempo 14.6666
+Se crea nuevo Pasajero con ParadaOrigen 50 y ParadaDestino 52 en tiempo 14.6666
+Se crea nuevo Pasajero con ParadaOrigen 52 y ParadaDestino 58 en tiempo 14.6666
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 52 en tiempo 14.6666
+--BajarPasajeros: Parada 10--
+{
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 14.8385
+}
+--SubirPasajeros: Parada 10--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 32 en tiempo 14.9999
+Se crea nuevo Pasajero con ParadaOrigen 59 y ParadaDestino 12 en tiempo 14.9999
+--BajarPasajeros: Parada 25--
+{
+Baja pasajero del Omnibus 1 de la Linea 6 en tiempo 15.0092
+}
+--BajarPasajeros: Parada 25--
+{
+}
+--SubirPasajeros: Parada 25--
+{
+}
+--SubirPasajeros: Parada 25--
+{
+}
+--BajarPasajeros: Parada 58--
+{
+Baja pasajero del Omnibus 1 de la Linea 1 en tiempo 15.2308
+}
+--BajarPasajeros: Parada 58--
+{
+}
+--BajarPasajeros: Parada 58--
+{
+}
+--BajarPasajeros: Parada 58--
+{
+}
+--SubirPasajeros: Parada 58--
+{
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 45 en tiempo 15.2308
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 47 en tiempo 15.2308
+}
+--SubirPasajeros: Parada 58--
+{
+Sube pasajero al Omnibus 1 de la Linea 2 con ParadaDestino 56 en tiempo 15.2308
+}
+--SubirPasajeros: Parada 58--
+{
+}
+--SubirPasajeros: Parada 58--
+{
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 51 en tiempo 15.2308
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 52 en tiempo 15.2308
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 53 en tiempo 15.2308
+}
+Se crea nuevo Pasajero con ParadaOrigen 1 y ParadaDestino 68 en tiempo 15.3487
+Se crea nuevo Pasajero con ParadaOrigen 33 y ParadaDestino 8 en tiempo 15.3488
+--BajarPasajeros: Parada 70--
+{
+Baja pasajero del Omnibus 1 de la Linea 12 en tiempo 15.4523
+Baja pasajero del Omnibus 1 de la Linea 12 en tiempo 15.4523
+}
+--SubirPasajeros: Parada 70--
+{
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 66 en tiempo 15.4523
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 68 en tiempo 15.4523
+Sube pasajero al Omnibus 1 de la Linea 12 con ParadaDestino 77 en tiempo 15.4523
+}
+Se crea nuevo Pasajero con ParadaOrigen 8 y ParadaDestino 67 en tiempo 15.5294
+--BajarPasajeros: Parada 38--
+{
+}
+--SubirPasajeros: Parada 38--
+{
+}
+--BajarPasajeros: Parada 27--
+{
+Baja pasajero del Omnibus 1 de la Linea 10 en tiempo 15.7108
+}
+--SubirPasajeros: Parada 27--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 12 y ParadaDestino 67 en tiempo 15.7144
+Se crea nuevo Pasajero con ParadaOrigen 18 y ParadaDestino 30 en tiempo 15.7144
+Se crea nuevo Pasajero con ParadaOrigen 24 y ParadaDestino 68 en tiempo 15.7144
+Se crea nuevo Pasajero con ParadaOrigen 32 y ParadaDestino 1 en tiempo 15.7144
+Se crea nuevo Pasajero con ParadaOrigen 36 y ParadaDestino 67 en tiempo 15.7144
+Se crea nuevo Pasajero con ParadaOrigen 52 y ParadaDestino 50 en tiempo 15.7144
+Se crea nuevo Pasajero con ParadaOrigen 55 y ParadaDestino 66 en tiempo 15.7144
+Se crea nuevo Pasajero con ParadaOrigen 73 y ParadaDestino 66 en tiempo 15.7144
+Se crea nuevo Pasajero con ParadaOrigen 6 y ParadaDestino 8 en tiempo 16.0976
+--BajarPasajeros: Parada 8--
+{
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 16.2092
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 16.2092
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 16.2092
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 16.2092
+Baja pasajero del Omnibus 1 de la Linea 4 en tiempo 16.2092
+}
+--SubirPasajeros: Parada 8--
+{
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 6 en tiempo 16.2092
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 6 en tiempo 16.2092
+Sube pasajero al Omnibus 1 de la Linea 4 con ParadaDestino 6 en tiempo 16.2092
+}
+--BajarPasajeros: Parada 57--
+{
+Baja pasajero del Omnibus 1 de la Linea 1 en tiempo 16.2323
+Baja pasajero del Omnibus 1 de la Linea 1 en tiempo 16.2323
+}
+--BajarPasajeros: Parada 57--
+{
+}
+--BajarPasajeros: Parada 57--
+{
+}
+--SubirPasajeros: Parada 57--
+{
+Sube pasajero al Omnibus 1 de la Linea 1 con ParadaDestino 45 en tiempo 16.2323
+}
+--SubirPasajeros: Parada 57--
+{
+}
+--SubirPasajeros: Parada 57--
+{
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 51 en tiempo 16.2323
+Sube pasajero al Omnibus 1 de la Linea 11 con ParadaDestino 52 en tiempo 16.2323
+}
+--BajarPasajeros: Parada 14--
+{
+}
+--SubirPasajeros: Parada 14--
+{
+Sube pasajero al Omnibus 1 de la Linea 8 con ParadaDestino 1 en tiempo 16.4031
+}
+--BajarPasajeros: Parada 65--
+{
+}
+--SubirPasajeros: Parada 65--
+{
+}
+Se crea nuevo Pasajero con ParadaOrigen 18 y ParadaDestino 32 en tiempo 16.5

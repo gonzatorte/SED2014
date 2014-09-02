@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1382275060 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_8\main.cpp
+	<eosim/dist/numbergenerator.hpp>
+	<eosim/dist/distribution.hpp>
+	<eosim/dist/mt19937.hpp>
+	<iostream>
+	<windows.h>
+	"algoritmoDeMuestreo.h"
+
+1166017170 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\dist\numbergenerator.hpp
+
+1166017168 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\dist\distribution.hpp
+	<eosim/dist/numbergenerator.hpp>
+
+1380935906 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_8\include\algoritmodemuestreo.h
+	<eosim/dist/distribution.hpp>
+
+1381262962 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_8\src\algoritmodemuestreo.cpp
+	"algoritmoDeMuestreo.h"
+
+1382275060 source:d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_8\main.cpp
+	<eosim/dist/numbergenerator.hpp>
+	<eosim/dist/distribution.hpp>
+	<eosim/dist/mt19937.hpp>
+	<iostream>
+	<windows.h>
+	"algoritmoDeMuestreo.h"
+
+1166017170 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\dist\numbergenerator.hpp
+
+1166017168 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\dist\distribution.hpp
+	<eosim/dist/numbergenerator.hpp>
+
+1380935906 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_8\include\algoritmodemuestreo.h
+	<eosim/dist/distribution.hpp>
+
+1166017170 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\dist\mt19937.hpp
+	<eosim/dist/numbergenerator.hpp>
+
+1381259361 source:d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_8\src\algoritmodemuestreo.cpp
+	"algoritmoDeMuestreo.h"
+
+1166017170 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\dist\mt19937.hpp
+	<eosim/dist/numbergenerator.hpp>
+

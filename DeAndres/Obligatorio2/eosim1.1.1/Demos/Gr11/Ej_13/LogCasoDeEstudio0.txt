@@ -1,0 +1,34 @@
+Arranco ...
+Termine ...
+
+
+Linea numero 1 tiene 3 Omnibus.
+Linea numero 2 tiene 2 Omnibus.
+Linea numero 3 tiene 3 Omnibus.
+Linea numero 4 tiene 3 Omnibus.
+Linea numero 5 tiene 2 Omnibus.
+Linea numero 6 tiene 2 Omnibus.
+Linea numero 7 tiene 3 Omnibus.
+Linea numero 8 tiene 2 Omnibus.
+Linea numero 9 tiene 8 Omnibus.
+Linea numero 10 tiene 3 Omnibus.
+Linea numero 11 tiene 4 Omnibus.
+Linea numero 12 tiene 2 Omnibus.
+Linea numero 13 tiene 1 Omnibus.
+Arranco ...
+Termine ...
+
+
+Linea numero 1 tiene 3 Omnibus.
+Linea numero 2 tiene 2 Omnibus.
+Linea numero 3 tiene 3 Omnibus.
+Linea numero 4 tiene 3 Omnibus.
+Linea numero 5 tiene 2 Omnibus.
+Linea numero 6 tiene 2 Omnibus.
+Linea numero 7 tiene 3 Omnibus.
+Linea numero 8 tiene 2 Omnibus.
+Linea numero 9 tiene 8 Omnibus.
+Linea numero 10 tiene 3 Omnibus.
+Linea numero 11 tiene 4 Omnibus.
+Linea numero 12 tiene 2 Omnibus.
+Linea numero 13 tiene 1 Omnibus.

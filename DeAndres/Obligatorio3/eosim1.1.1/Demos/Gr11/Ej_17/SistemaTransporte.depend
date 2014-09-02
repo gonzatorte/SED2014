@@ -1,0 +1,397 @@
+# depslib dependency file v1.0
+1379899913 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\nueva carpeta\sistematransporte\src\linea.cpp
+	"Linea.h"
+	"SistemaTransporte.h"
+	<iostream>
+
+1379899975 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\nueva carpeta\sistematransporte\include\linea.h
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/model.hpp>
+	<vector>
+	<string>
+
+1379881615 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\nueva carpeta\sistematransporte\include\utils.h
+	<eosim/core/model.hpp>
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/renewable.hpp>
+	<eosim/dist/negexpdist.hpp>
+	<eosim/statics/timeweighted.hpp>
+	<eosim/statics/observation.hpp>
+	<vector>
+	<cstring>
+	<fstream>
+	"Omnibus.h"
+	"Pasajero.h"
+	"Linea.h"
+	"SistemaTransporte.h"
+
+1166013566 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\core\model.hpp
+	<string>
+	<eosim/core/entity.hpp>
+	<eosim/dist/distribution.hpp>
+	<eosim/utils/beventmap.hpp>
+	<eosim/utils/ceventvector.hpp>
+
+1166013566 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\core\entity.hpp
+
+1166013568 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\dist\distribution.hpp
+	<eosim/dist/numbergenerator.hpp>
+
+1166013570 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\dist\numbergenerator.hpp
+
+1166013574 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\utils\beventmap.hpp
+	<eosim/core/bevent.hpp>
+	<map>
+	<string>
+
+1166013564 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\core\bevent.hpp
+	<string>
+
+1166013576 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\utils\ceventvector.hpp
+	<eosim/core/cevent.hpp>
+	<vector>
+
+1166013566 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\core\cevent.hpp
+
+1166013576 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\utils\entityqueuefifo.hpp
+	<eosim/utils/entityqueue.hpp>
+	<deque>
+
+1166013576 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\utils\entityqueue.hpp
+	<eosim/core/entity.hpp>
+
+1166013568 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\core\renewable.hpp
+	<eosim/core/bin.hpp>
+
+1166013564 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\core\bin.hpp
+
+1166013570 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\dist\negexpdist.hpp
+	<eosim/dist/distribution.hpp>
+
+1166013574 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\statics\timeweighted.hpp
+	<eosim/statics/histogram.hpp>
+
+1166013572 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\statics\histogram.hpp
+	<string>
+	<map>
+	<utility>
+
+1166013574 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\statics\observation.hpp
+	<eosim/statics/histogram.hpp>
+
+1379965518 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\nueva carpeta\sistematransporte\include\sistematransporte.h
+	"Omnibus.h"
+	"Pasajero.h"
+	"Linea.h"
+
+1379903147 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\nueva carpeta\sistematransporte\include\omnibus.h
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/renewable.hpp>
+	<string>
+	<eosim/core/model.hpp>
+
+1379883150 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\nueva carpeta\sistematransporte\include\pasajero.h
+	<eosim/core/entity.hpp>
+	<string>
+	<eosim/core/model.hpp>
+
+1379965737 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\nueva carpeta\sistematransporte\src\omnibus.cpp
+	"Omnibus.h"
+	"SistemaTransporte.h"
+	<iostream>
+
+1379898492 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\nueva carpeta\sistematransporte\src\pasajero.cpp
+	"Pasajero.h"
+	"SistemaTransporte.h"
+	<iostream>
+
+1379966062 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\nueva carpeta\sistematransporte\src\sistematransporte.cpp
+	<stdio.h>
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1379963146 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\nueva carpeta\sistematransporte\src\main.cpp
+	<eosim/dist/mt19937.hpp>
+	<eosim/core/experiment.hpp>
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1166013570 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\dist\mt19937.hpp
+	<eosim/dist/numbergenerator.hpp>
+
+1166013566 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\core\experiment.hpp
+	<string>
+	<eosim/core/bcalendar.hpp>
+	<eosim/core/ccalendar.hpp>
+	<eosim/core/entity.hpp>
+	<eosim/dist/distmanager.hpp>
+	<eosim/dist/distribution.hpp>
+
+1166013564 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\core\bcalendar.hpp
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueueordered.hpp>
+
+1166013578 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\utils\entityqueueordered.hpp
+	<eosim/utils/entityqueue.hpp>
+	<deque>
+
+1166013564 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\core\ccalendar.hpp
+	<eosim/core/cevent.hpp>
+	<eosim/utils/ceventvector.hpp>
+
+1166013568 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\dist\distmanager.hpp
+	<eosim/dist/numbergenerator.hpp>
+	<eosim/utils/distvector.hpp>
+
+1166013576 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\include\eosim\utils\distvector.hpp
+	<eosim/dist/distribution.hpp>
+	<vector>
+
+1379975628 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_7\src\linea.cpp
+	"Linea.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1379974010 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_7\include\linea.h
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/model.hpp>
+	<vector>
+	<string>
+
+1379973904 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_7\include\sistematransporte.h
+	"Omnibus.h"
+	"Pasajero.h"
+	"Linea.h"
+
+1379903148 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_7\include\omnibus.h
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/renewable.hpp>
+	<string>
+	<eosim/core/model.hpp>
+
+1379974010 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_7\include\pasajero.h
+	<eosim/core/entity.hpp>
+	<string>
+	<eosim/core/model.hpp>
+
+1379975734 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_7\src\main.cpp
+	<eosim/dist/mt19937.hpp>
+	<eosim/core/experiment.hpp>
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1379976082 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_7\src\omnibus.cpp
+	"Omnibus.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1379975678 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_7\src\pasajero.cpp
+	"Pasajero.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1379976040 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_7\src\sistematransporte.cpp
+	<stdio.h>
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1379975628 source:d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_7\src\linea.cpp
+	"Linea.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1379974010 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_7\include\linea.h
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/model.hpp>
+	<vector>
+	<string>
+
+1166017166 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\core\entity.hpp
+
+1166017176 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\utils\entityqueuefifo.hpp
+	<eosim/utils/entityqueue.hpp>
+	<deque>
+
+1166017176 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\utils\entityqueue.hpp
+	<eosim/core/entity.hpp>
+
+1166017166 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\core\model.hpp
+	<string>
+	<eosim/core/entity.hpp>
+	<eosim/dist/distribution.hpp>
+	<eosim/utils/beventmap.hpp>
+	<eosim/utils/ceventvector.hpp>
+
+1166017168 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\dist\distribution.hpp
+	<eosim/dist/numbergenerator.hpp>
+
+1166017170 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\dist\numbergenerator.hpp
+
+1166017174 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\utils\beventmap.hpp
+	<eosim/core/bevent.hpp>
+	<map>
+	<string>
+
+1166017164 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\core\bevent.hpp
+	<string>
+
+1166017176 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\utils\ceventvector.hpp
+	<eosim/core/cevent.hpp>
+	<vector>
+
+1166017166 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\core\cevent.hpp
+
+1379973904 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_7\include\sistematransporte.h
+	"Omnibus.h"
+	"Pasajero.h"
+	"Linea.h"
+
+1379903148 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_7\include\omnibus.h
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/renewable.hpp>
+	<string>
+	<eosim/core/model.hpp>
+
+1166017168 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\core\renewable.hpp
+	<eosim/core/bin.hpp>
+
+1166017164 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\core\bin.hpp
+
+1379974010 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_7\include\pasajero.h
+	<eosim/core/entity.hpp>
+	<string>
+	<eosim/core/model.hpp>
+
+1379975734 source:d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_7\src\main.cpp
+	<eosim/dist/mt19937.hpp>
+	<eosim/core/experiment.hpp>
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1166017170 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\dist\mt19937.hpp
+	<eosim/dist/numbergenerator.hpp>
+
+1166017166 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\core\experiment.hpp
+	<string>
+	<eosim/core/bcalendar.hpp>
+	<eosim/core/ccalendar.hpp>
+	<eosim/core/entity.hpp>
+	<eosim/dist/distmanager.hpp>
+	<eosim/dist/distribution.hpp>
+
+1166017164 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\core\bcalendar.hpp
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueueordered.hpp>
+
+1166017178 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\utils\entityqueueordered.hpp
+	<eosim/utils/entityqueue.hpp>
+	<deque>
+
+1166017164 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\core\ccalendar.hpp
+	<eosim/core/cevent.hpp>
+	<eosim/utils/ceventvector.hpp>
+
+1166017168 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\dist\distmanager.hpp
+	<eosim/dist/numbergenerator.hpp>
+	<eosim/utils/distvector.hpp>
+
+1166017176 d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\include\eosim\utils\distvector.hpp
+	<eosim/dist/distribution.hpp>
+	<vector>
+
+1379976082 source:d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_7\src\omnibus.cpp
+	"Omnibus.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1379975678 source:d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_7\src\pasajero.cpp
+	"Pasajero.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1379976040 source:d:\facultad\eventos discretos\obligatorio 1\eosim1.1.1\demos\gr11\ej_7\src\sistematransporte.cpp
+	<stdio.h>
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1379975628 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_9\src\linea.cpp
+	"Linea.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1379974010 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_9\include\linea.h
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/model.hpp>
+	<vector>
+	<string>
+
+1381872779 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_9\include\sistematransporte.h
+	"Omnibus.h"
+	"Pasajero.h"
+	"Linea.h"
+	<eosim/dist/distribution.hpp>
+	<eosim/dist/numbergenerator.hpp>
+	<eosim/dist/negexpdist.hpp>
+
+1379903148 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_9\include\omnibus.h
+	<eosim/core/entity.hpp>
+	<eosim/utils/entityqueuefifo.hpp>
+	<eosim/core/renewable.hpp>
+	<string>
+	<eosim/core/model.hpp>
+
+1379974010 c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_9\include\pasajero.h
+	<eosim/core/entity.hpp>
+	<string>
+	<eosim/core/model.hpp>
+
+1379976082 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_9\src\omnibus.cpp
+	"Omnibus.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1381873051 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_9\src\pasajero.cpp
+	"Pasajero.h"
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1381870748 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_9\src\main.cpp
+	<eosim/dist/mt19937.hpp>
+	<eosim/core/experiment.hpp>
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+
+1381873061 source:c:\documents and settings\andres\escritorio\eosimulator\eosim1.1.1\demos\gr11\ej_9\src\sistematransporte.cpp
+	<stdio.h>
+	"SistemaTransporte.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
